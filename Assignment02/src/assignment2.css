@@ -1,4 +1,13 @@
 *{
-    background-color: rgba(149, 163, 241, 0.795);
+    background-color: rgba(149, 163, 241, 0.959);
     color: white;
+}
+button{
+    border: solid white;
+    background-color: white;
+    color: rgba(149, 163, 241, 0.959);
+    font-weight: 600;
+}
+input{
+    border: solid white;
 }
